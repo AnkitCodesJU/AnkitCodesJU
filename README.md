@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ankit Roy <br>Information Technology Sophomore @ Jadavpur University (2024–2028)<br>Software Engineering • Full-Stack Development • Problem Solving<br><br>Core Skills:<br>C++ • Python • Java • JavaScript<br>Data Structures & Algorithms • Competitive Problem Solving<br><br>Web Stack:<br>HTML • CSS • React<br>Node.js • Express.js<br>SQL • MongoDB<br><br>Engineering Focus:<br>Scalable Systems • Clean Code • REST APIs<br>Backend Logic • Frontend Architecture<br>Version Control • Git/GitHub<br><br>Currently Working On:<br>Full-Stack MERN Projects<br>DSA & Algorithmic Optimization<br>Backend & Core CS Fundamentals
+Ankit Roy <br>Information Technology Sophomore @ Jadavpur University (2024–2028)<br>Software Engineering • Full-Stack Development • Problem Solving<br><br>Core Skills:<br>C++ • Python • Java • JavaScript<br>Data Structures & Algorithms • Competitive Problem Solving<br><br>Engineering Focus:<br>Scalable Systems • Clean Code • REST APIs<br>Backend Logic • Frontend Architecture<br>Version Control • Git/GitHub<br><br>Currently Working On:<br>Full-Stack MERN Projects<br>DSA & Algorithmic Optimization<br>Backend & Core CS Fundamentals
 
 
 ## 🌐 Socials:
