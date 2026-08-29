@@ -20,3 +20,7 @@ Ankit Roy <br>Information Technology Sophomore @ Jadavpur University (2024–202
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+<a href="https://u8views.com/github/AnkitCodesJU"><img src="https://u8views.com/api/v1/github/profiles/204390541/views/day-week-month-total-count.svg"></a>
